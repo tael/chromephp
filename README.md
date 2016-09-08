@@ -21,3 +21,12 @@ This library allows you to log variables to the Chrome console.
 
 More information can be found here:
 http://www.chromelogger.com
+
+
+
+
+## php-console
+https://packagist.org/packages/php-console/php-console
+
+## 예제
+http://php-console.com/instance/examples/
